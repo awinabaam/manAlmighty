@@ -2,8 +2,7 @@
 - 👀 I’m interested in building apps using React and Python Django.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on building e-commerce apps
-- 📫 How to reach me ...
---- E-mail: awinabaam@gmail.com
+- 📫 How to reach me:
 --- Telegram: @man_almighty
 
 <!---
